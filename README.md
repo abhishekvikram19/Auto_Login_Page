@@ -14,7 +14,8 @@ To update the "path/to/chromedriver" with the correct path.
 System.setProperty("webdriver.chrome.driver", "path/to/chromedriver");
 
 Now,runing the test classes using TestNG. Right-click on each test class file and select "Run" or "Run with TestNG" to execute the tests.
-![TestNG_reports](https://github.com/abhishekvikram19/Auto_Login_Page/assets/24250895/b53fea0b-49ad-48ff-acef-37b0ce0d7c78)
+![TestNG_reports](https://github.com/abhishekvikram19/Auto_Login_Page/assets/24250895/aee77a69-f303-4ca0-8127-be987c4bc133)
+
 I had mentioned 5 test Cases as Follows:
 1.This case will provide Username and password
 2.This case will provide only Username
@@ -22,16 +23,20 @@ I had mentioned 5 test Cases as Follows:
 4.This case will provide no data
 5.This case will check (click the AMOUNT header in the transaction table and check the values are sorted)
 Here the Provided Code
-![TestCase](https://github.com/abhishekvikram19/Auto_Login_Page/assets/24250895/fece38c0-7a43-46c8-bb7d-fe6a15c4ac18)
+![TestCase](https://github.com/abhishekvikram19/Auto_Login_Page/assets/24250895/8558597a-1c0d-4732-b1cb-d2fa0d871dc2)
+
 
 TestNG will run the tests, and the results will be displayed in the test runner window in the IDE. Assertions will be validated, and any failures or errors will be reported.
 
 For generating HTML reports, integrating a reporting library ExtentReports or TestNG HTML Reporters into project. Follow the documentation of the specific reporting library you choose to incorporate for generating HTML reports.
 Home Page
-![HomePage](https://github.com/abhishekvikram19/Auto_Login_Page/assets/24250895/fda3a76d-bca2-4694-a8b0-488bde92bd31)
+![HomePage](https://github.com/abhishekvikram19/Auto_Login_Page/assets/24250895/8eda9037-2c14-454d-a8d6-3aec297c0fa8)
+
 Login Page
-![LoginPage](https://github.com/abhishekvikram19/Auto_Login_Page/assets/24250895/c08d7381-7fc7-4230-be5c-5951ca6fee98)
+![LoginPage](https://github.com/abhishekvikram19/Auto_Login_Page/assets/24250895/99e62777-7523-4943-a791-eb444808455d)
+
 Main Page
-![MainLoginPage](https://github.com/abhishekvikram19/Auto_Login_Page/assets/24250895/68d78476-ad34-4e9a-b2fb-9da7dc4c009d)
+![MainLoginPage](https://github.com/abhishekvikram19/Auto_Login_Page/assets/24250895/a737c2cf-88ec-42bf-89c2-d0acd73b3f36)
+
 
 
